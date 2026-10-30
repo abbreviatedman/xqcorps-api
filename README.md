@@ -1,6 +1,6 @@
 # xqcorps-api
 
-Express/MongoDB API with `Author` and `Story` models (many-to-many).
+An API for xqcorps.com, a collaborative storywriting app.
 
 Endpoints: `GET /authors`, `/authors/:id`, `/authors/:id/stories`, `/stories`, `/stories/:id`, `/stories/:id/authors`.
 
